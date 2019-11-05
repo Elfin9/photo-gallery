@@ -1,9 +1,9 @@
-/* * { */
-    /* transition: all .5s; */
-    /* box-sizing: border-box; */
-/* } */
+ * { 
+     transition: all .5s; 
+     box-sizing: border-box; 
+ } 
 .container {
-    margin: -10px;
+    margin: -8px;
 }
 #navbar {
     overflow: hidden;
