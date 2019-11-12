@@ -50,7 +50,7 @@ p {
     text-align: center;
     background: gray;
 }
-.column {
+.row {
     display: flex;
     background-color: rgba(0, 0, 0, 0.1);
     height: 100px;
@@ -67,4 +67,7 @@ p {
 }
 .next {
     right: 8px;
+}
+.mySlides {
+    display: none;
 }
